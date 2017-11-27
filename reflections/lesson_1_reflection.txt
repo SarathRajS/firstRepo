@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    I was able to see the code that was changed and was able to pin point the code which caused the issue.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    We would be able to see all the changes made to the file and incase of any issues we would be able to revert to the previous versions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: We create the copy of a file only when needed and this will give us the options to create a version in iterations of any logical changes alone when needed.
+    Cons: If we miss to create a copy during a crucial point and if something goes wrong we will not be able to revert to the point where there were no issues. Too small or too big commits are the Cons of manual commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Since a program might use different components to run, it is always better to save the entire code whereas in the Google Docs each file is independent of each other.
+    Program like Git saves the changes made to an entire Repository.	
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git Log: It is used to see all the changes that are made to the repository.
+    Git Diff : It is used to compare two different commits by passing the Commit IDs.
+
+How might using version control make you more confident to make changes that could break something?
+
+    Version control gives us control over the files and we could revert at any time when we suspect that our code is broken to a previous version where everything seems fine.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try to add some additional code in a sample project I have worked on and see how it helps my programming.
